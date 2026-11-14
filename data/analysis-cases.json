@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "crossed",
+    "study": {
+      "readings": [
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40.3176,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 39.5131,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40.5499,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40.3182,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 41.1955,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 41.3952,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 41.708,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 41.51,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 42.0556,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 42.59,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 43.1441,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 43.3479,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 42.9965,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 43.1481,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 44.1164,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 43.6717,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 43.9536,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 44.6784,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 44.9867,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 44.9023,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 45.5941,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 46.0701,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 45.9609,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 46.616,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 46.0572,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 45.7896,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 46.3519,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 46.2241,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 47.0068,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 47.347,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 48.2238,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 47.5856,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 47.961,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 48.4293,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 49.2214,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 48.5477,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 49.1007,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 49.0985,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 48.9388,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 49.6067,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 50.1802,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 50.2758,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 50.264,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 50.812,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 51.5553,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 51.3332,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 51.7315,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 51.8706,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 51.9074,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 52.1138,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 52.9011,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 53.1178,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 52.9382,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 52.8384,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 54.0555,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 53.8784,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 54.0806,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 54.5831,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 55.6406,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 54.8615,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 54.9529,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 54.7795,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 56.4656,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 55.2927,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 55.8955,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 55.9149,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 56.6664,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 56.5495,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 57.6984,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 56.83,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 57.9265,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 58.4847,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 58.1151,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 57.8998,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 58.4456,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 59.0621,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 59.3847,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 58.632,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 59.6681,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 59.9535,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 60.6438,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 60.6162,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 61.0458,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 60.6091,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 60.816,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 61.3397,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 61.5181,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 61.4136,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 62.204,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 61.9161,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 62.8826,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 62.4037,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 63.2197,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 63.5013,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 63.925,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 64.2239,
+          "unit": "g"
+        }
+      ],
+      "operators": [
+        {
+          "id": "op-0",
+          "shift": 0
+        },
+        {
+          "id": "op-1",
+          "shift": 1
+        },
+        {
+          "id": "op-2",
+          "shift": 0
+        }
+      ],
+      "instruments": [
+        {
+          "id": "meter-1",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        },
+        {
+          "id": "meter-2",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        }
+      ],
+      "study_design": {
+        "structure": "crossed",
+        "random": [
+          "specimen",
+          "operator",
+          "instrument"
+        ],
+        "fixed": []
+      },
+      "costs": {
+        "operator_setup_hours": 2,
+        "reading_hours": 0.1,
+        "specimen_consumption": 1
+      },
+      "planning_limits": {
+        "hours": 40,
+        "specimens": 100
+      }
+    },
+    "check": "样品、人员、设备和重复误差是否可区分"
+  },
+  {
+    "name": "bound_operator_instrument",
+    "study": {
+      "readings": [
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40.3176,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 39.5131,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 41.708,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 41.51,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 42.9965,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 43.1481,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 44.9867,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 44.9023,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 46.0572,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 45.7896,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 48.2238,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 47.5856,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 49.1007,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 49.0985,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 50.264,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 50.812,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 51.9074,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 52.1138,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 54.0555,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 53.8784,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 54.9529,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 54.7795,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 56.6664,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 56.5495,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 58.1151,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 57.8998,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 59.6681,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 59.9535,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 60.816,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 61.3397,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 62.8826,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 62.4037,
+          "unit": "g"
+        }
+      ],
+      "operators": [
+        {
+          "id": "op-0",
+          "shift": 0
+        },
+        {
+          "id": "op-1",
+          "shift": 1
+        },
+        {
+          "id": "op-2",
+          "shift": 0
+        }
+      ],
+      "instruments": [
+        {
+          "id": "meter-1",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        },
+        {
+          "id": "meter-2",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        }
+      ],
+      "study_design": {
+        "structure": "partially_nested",
+        "random": [
+          "specimen",
+          "operator",
+          "instrument"
+        ],
+        "fixed": []
+      },
+      "costs": {
+        "operator_setup_hours": 2,
+        "reading_hours": 0.1,
+        "specimen_consumption": 1
+      },
+      "planning_limits": {
+        "hours": 40,
+        "specimens": 100
+      }
+    },
+    "check": "人员与设备绑定时哪些成分不能独立估计"
+  },
+  {
+    "name": "no_repeats",
+    "study": {
+      "readings": [
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40.3176,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40.5499,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 41.1955,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 41.708,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 42.0556,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 43.1441,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 42.9965,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 44.1164,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 43.9536,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 44.9867,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 45.5941,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 45.9609,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 46.0572,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 46.3519,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 47.0068,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 48.2238,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 47.961,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 49.2214,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 49.1007,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 48.9388,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 50.1802,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 50.264,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 51.5553,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 51.7315,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 51.9074,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 52.9011,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 52.9382,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 54.0555,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 54.0806,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 55.6406,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 54.9529,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 56.4656,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 55.8955,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 56.6664,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 57.6984,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 57.9265,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 58.1151,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 58.4456,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 59.3847,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 59.6681,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 60.6438,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 61.0458,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 60.816,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 61.5181,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 62.204,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 62.8826,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 63.2197,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 63.925,
+          "unit": "g"
+        }
+      ],
+      "operators": [
+        {
+          "id": "op-0",
+          "shift": 0
+        },
+        {
+          "id": "op-1",
+          "shift": 1
+        },
+        {
+          "id": "op-2",
+          "shift": 0
+        }
+      ],
+      "instruments": [
+        {
+          "id": "meter-1",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        },
+        {
+          "id": "meter-2",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        }
+      ],
+      "study_design": {
+        "structure": "crossed",
+        "random": [
+          "specimen",
+          "operator",
+          "instrument"
+        ],
+        "fixed": []
+      },
+      "costs": {
+        "operator_setup_hours": 2,
+        "reading_hours": 0.1,
+        "specimen_consumption": 1
+      },
+      "planning_limits": {
+        "hours": 40,
+        "specimens": 100
+      }
+    },
+    "check": "无组合内重复时不能沿用有重复的精度解释"
+  },
+  {
+    "name": "constant",
+    "study": {
+      "readings": [
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-0",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-1",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-2",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-3",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-4",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-5",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-6",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-0",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-1",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-1",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 1,
+          "value": 40,
+          "unit": "g"
+        },
+        {
+          "specimen": "s-7",
+          "operator": "op-2",
+          "instrument": "meter-2",
+          "replicate": 2,
+          "value": 40,
+          "unit": "g"
+        }
+      ],
+      "operators": [
+        {
+          "id": "op-0",
+          "shift": 0
+        },
+        {
+          "id": "op-1",
+          "shift": 1
+        },
+        {
+          "id": "op-2",
+          "shift": 0
+        }
+      ],
+      "instruments": [
+        {
+          "id": "meter-1",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        },
+        {
+          "id": "meter-2",
+          "unit": "g",
+          "minimum": 0,
+          "maximum": 200
+        }
+      ],
+      "study_design": {
+        "structure": "crossed",
+        "random": [
+          "specimen",
+          "operator",
+          "instrument"
+        ],
+        "fixed": []
+      },
+      "costs": {
+        "operator_setup_hours": 2,
+        "reading_hours": 0.1,
+        "specimen_consumption": 1
+      },
+      "planning_limits": {
+        "hours": 40,
+        "specimens": 100
+      }
+    },
+    "check": "零散布与方差边界不导致NaN或假精度"
+  }
+]
